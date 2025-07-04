@@ -28,5 +28,11 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# vercel
+# Vercel
 .vercel
+
+# PowerShell run scripts
+run_app.ps1
+
+# Local Netlify folder
+.netlify
